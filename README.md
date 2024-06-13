@@ -3,6 +3,8 @@ These are all of the ML projects that I did during university, work, and persona
 
 The main purpose of this repo is to just showcase my general skill and understanding towards applying different techniques needed for a ML task. These techniques include EDA, dimensionality reduction, feature engineering and model selection.
 
-Below are the different ML tasks that I have completed, with their corresponding dataset(s) and description:
+Below are the different ML tasks that I have completed under respective categories:
 
-1. 
+_Classification_
+1. Multi-class CLassification of Forest Cover Types
+2. Binary Classification of Phishing Websites
