@@ -1,4 +1,4 @@
-## This was my final year project (FYP) focused on using the covtype dataset from UCI Machine Learning Repository.##
+# This was my final year project (FYP) focused on using the covtype dataset from UCI Machine Learning Repository. #
 
 The objective was to predict from 7 different forest cover types, for trees from the Roosevelt National Forest, with
 high performance.
